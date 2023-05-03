@@ -44,7 +44,7 @@
 |이수영|크롤러, 백엔드|
 
 <br></br>
-
+ 
 ## ⭐️ resources
 
 - a illustration clip by [Loose Drawing](https://loosedrawing.com/terms/)
