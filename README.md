@@ -1,31 +1,18 @@
 # seulsegown
 
-## ⭐️ 프로젝트 주제
-### 🩴 내가 사는 곳은 슬세권인가?
-![스크린샷 2023-05-03 16 27 24](https://user-images.githubusercontent.com/54103240/236002002-13ca2ac0-cb85-4467-812d-1f8f3350f6cd.png)
 
+
+## ⭐️ 프로젝트 주제 : 내가 사는 곳은 슬세권🩴인가?
+<p align="center"><img src="https://user-images.githubusercontent.com/54103240/236002002-13ca2ac0-cb85-4467-812d-1f8f3350f6cd.png" width="600" height="850"/>
 
 <br></br>
 ## ⭐️ 프로젝트 소개
-### 내용
-
-<br>
-
-### 편의점
-1. CU
-2. emart24
-3. ministop
-4. 7eleven
-5. gs25
-
-<br>
-
-### 평가 점수 계산 방식
-![image (2)](https://user-images.githubusercontent.com/54103240/236002202-b3d74876-d61e-4b9f-883b-0c6933a3afe8.png)
-
-
+### 1. 내용
 
 <br></br>
+
+
+
 ## ⭐️ 프로젝트 기간
 2023.05.01 ~ 2023.05.05
 
@@ -40,6 +27,11 @@
 ### 2. 커밋 컨벤션
 
 
+<br></br>
+
+## ⭐️ 평가 점수 계산 방식
+<p align="center"><img src="https://user-images.githubusercontent.com/54103240/236002202-b3d74876-d61e-4b9f-883b-0c6933a3afe8.png" width="1000" height="600"/>
+
 
 <br></br>
 ## ⭐️ 팀원
@@ -53,16 +45,20 @@
 
 <br></br>
 
-## 프로젝트 진행 과정
-### 1️⃣ 프로제젝트 구조
-![image (1)](https://user-images.githubusercontent.com/54103240/236000654-a85dc143-3507-40e2-94ba-184b5e8d929d.png)
+## ⭐️ resources
 
+- a illustration clip by [Loose Drawing](https://loosedrawing.com/terms/)
+
+<br></br>
+
+## ⭐️ 프로젝트 진행 과정
+### 1️⃣ 프로젝트 구조
+<p align="center"><img src="https://user-images.githubusercontent.com/54103240/236000654-a85dc143-3507-40e2-94ba-184b5e8d929d.png" width="800" height="600"/>
 <br></br>
 
 ### 2️⃣ 데이터 모델링
-![image](https://user-images.githubusercontent.com/54103240/236000480-36b2d7eb-e0c2-4eb4-bf8b-2f5aa1a9afcf.png)
-
+<p align="center"><img src="https://user-images.githubusercontent.com/54103240/236000480-36b2d7eb-e0c2-4eb4-bf8b-2f5aa1a9afcf.png" width="700" height="400"/>
 <br></br>
 
 ### 3️⃣ Flow Chart
-![스크린샷 2023-05-02 오후 1 50 47](https://user-images.githubusercontent.com/54103240/236001750-ac2e3357-cbfc-4214-9e3f-122e3717e8c7.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/54103240/236001750-ac2e3357-cbfc-4214-9e3f-122e3717e8c7.png" width="700" height="400"/>
